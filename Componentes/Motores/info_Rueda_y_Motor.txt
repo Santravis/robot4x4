@@ -1,0 +1,25 @@
+
+
+
+6.20€ + IVA
+
+Pequeña rueda con motor para montar un Rover de 2 o 4 ruedas.
+
+Muy frecuente en los montajes de Arduino, es un conjunto sencillo y practico para iniciarte con pequeños motores 
+de corriente continua y ruedas a su medida. 
+Los motores consumen sobre unos 60 mA cada uno y aceptan una tensión entre 3 y 6 voltios.
+
+Por eso se puede utilizar un conjunto de 4 o 6 pilas para alimentarlo cómodamente, 
+a través del conector de alimentación externa de tu Arduino 
+(NO directamente, ya que 6 pilas x 1,5V = 9V que freirían tu arduino si lo conectas directamente)
+
+Detalles del producto:
+
+Tamaño del motor: 70mm x 22mm x 18mm
+Motor Peso: 50g
+Diámetro de la llanta: 66mm
+Reductora: 48: 1
+Ancho neumático ancho: 25mm.
+Tensión entre 3 V y 12 V (recomendado 6 a 8 voltios).
+
+Hemos utilizado estas ruedas y motores en un grupo de tutoriales, para construir un Rover 4×4 con y sin control remoto.

@@ -1,0 +1,6 @@
+
+06/02/19
+
+Este codigo funciona, mide la distancia.
+
+Ahora seria cuestion de implementar el movimiento de los servos

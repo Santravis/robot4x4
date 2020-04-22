@@ -1,0 +1,20 @@
+
+
+
+
+15.00€ + IVA
+
+Este nuevo Motor Shield V2 es muy similar en prestaciones al Motor Shield V1, 
+que quienes hayan visto nuestra web lo reconocerán como algo parecido a un clásico, 
+pero con valores muy mejorados en todos los aspectos.
+
+El Motor Shield V2, mantiene la capacidad de gestionar hasta 4 motores de corriente  continua  CC, 
+o bien 2 paso a paso (unipolar o bipolar) más 2 servos simultáneamente, para motores de 6 a 13.5 VDC.
+
+Usa puentes H-bridge TB6612 en lugar del venerable L293D, por lo que en lugar de los 0,5 Amperios que soportaba el Motor Shield V1 
+este es capaz de mantener intensidades de 1.2 Amperios con picos de 3 Amp.
+
+Incluye protección por sobretensión y apagado automático por sobrecalentamiento y 
+además este shield está diseñado para poder ser apilado con lo que teóricamente 
+podríamos alcanzar la cifra de 32 unidades apiladas (Pero por favor no lo intentéis) 
+pero en principio podemos apilar media docena sin problemas, aunque aún no lo hemos probado.

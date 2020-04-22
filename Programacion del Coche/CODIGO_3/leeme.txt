@@ -1,0 +1,9 @@
+
+Contiene el codigo ...
+
+Motores
+Sensor Ultrasonico
+Servo 1 (movimiento horizoltal)
+Servo 2 (movimiento vertical) ---> este aún no tiene codigo
+
+

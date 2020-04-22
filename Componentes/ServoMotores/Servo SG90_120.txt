@@ -1,0 +1,20 @@
+
+
+
+4.20€ + IVA
+
+Es un servo analogico sencillo y barato pensado para iniciarse en el mundo de los servos sin grandes desmbolsos.
+
+Características
+Micro Servo Tower-pro
+Velocidad: 0.10 sec/60° @ 4.8V
+Torque: 1.8 Kg-cm a 4.8V
+Voltaje de funcionamiento: 3.0-7.2V
+Temperatura de funcionamiento: -30 ? ~ 60 ?
+Ángulo de rotación: 120°
+Ancho de pulso: 500-2400 µs.
+Rojo =Alimentación (+), Cafe = Alimentación (–) o tierra, Naranja= Señal PWM.
+Hemos usado este servo en varias sesiones en nuestra web:
+
+16 Conociendo los servos.
+17 Circuito con joystick y servo.

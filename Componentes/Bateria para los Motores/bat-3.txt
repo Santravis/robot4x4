@@ -1,0 +1,16 @@
+
+
+
+3.00€ + IVA
+
+En mas de una ocasión tendrás que alimentar tus proyectos con pilas o baterías recargables 
+y te encontraras con que necesitas este porta pilas para manejarlo de un modo comodo.
+
+Un componente sencillo y barato que resuelve eficazmente un problema de alimentación de tu arduino.
+
+Lo hemos usado en estos tutoriales, para alimentar un robot 4×4:
+
+92 Un pequeño robot con tracción 4×4.
+94 Dirigiendo un robot 4×4.
+95 Un robot 4×4 autónomo.
+96 Controlando el Rover con un mando PS2.

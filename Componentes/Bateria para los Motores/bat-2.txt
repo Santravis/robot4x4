@@ -1,0 +1,24 @@
+
+
+
+16.00€ + IVA
+
+Batería Lipo de pequeño tamaño y 7,4V de 2.500 mA de capacidad. Típica batería para pequeños drones y con pequeños robots como los que publicamos en la sección de motores.
+
+Robots y Motores
+Este tipo de baterías se suelen usar en combinación con convertidores DC-DC para obtener tensiones estables de mas o menos voltaje, como 5V para tu Arduino o 12V para motores y por eso es interesante que leeas los siguientes sesiones si no estas familiarizado con ellas:
+
+87 Fuentes de alimentación Step Down o Buck Converters.
+88 Fuentes de alimentación Step Up o Boost Converters.
+
+Especificaciones:
+Batería LiPo
+Para vehículos y juguetes de control remoto.
+Periférico de control remoto
+Material composite
+Battery Voltage:7.4v
+Battery capac ity: 2500 mA
+Battery Discharge rate: 25C
+type:RC battery
+Plug:JST plug
+Tamaño: 66 * 30 * 17 mm.
